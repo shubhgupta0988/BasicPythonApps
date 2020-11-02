@@ -4,3 +4,4 @@ sqr_dict = dict()
 for i in range (1,n+1) :
     sqr_dict[i] = i * i
 print (sqr_dict)
+print("Thank you")
